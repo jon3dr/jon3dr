@@ -13,6 +13,7 @@
 <!-- icones tecnologias -->
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jon3dr-Blender" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
   <img align="center" alt="Jon3dr-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jon3dr-Processing" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
   <img align="center" alt="Jon3dr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
