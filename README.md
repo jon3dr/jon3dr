@@ -1,6 +1,7 @@
 ### Bem-vindo ao meu perfil! Me chamo Jonnathan e estudo programação em Java no meu tempo livre. 👋
 
-- 💬 Atualmente trabalho com Comunicação e Marketing.
+- 💬 Trabalhando com design e comunicação.
+- 💬 Curioso em tecnologia. Estudando linguagens de programação.
 
 <!-- status e languagens -->
 
